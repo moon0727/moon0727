@@ -14,23 +14,10 @@
 
 <br>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=moon0727" alt="GitHub Streak">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-</div>
-
-<br>
-
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kotiln-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -43,6 +30,14 @@
   <img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=moon0727&theme=tokyonight-duo&hide_border=true">
+  </a>
 </div>
 
 <br>
