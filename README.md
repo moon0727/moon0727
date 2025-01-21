@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=moon0727&theme=tokyonight-duo&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=moon0727&theme=tokyonight-duo&hide_border=true&mode=weekly">
   </a>
 </div>
 
