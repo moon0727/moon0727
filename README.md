@@ -14,7 +14,11 @@
 
 <br>
 
-<a href="https://github.com/moon0727"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=moon0727&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="mooni's github stats" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mooon0727&theme=tokyonight-duo&hide_border=true&mode=weekly" alt="GitHub Streak">
+  </a>
+</div>
 
 <br>
 
