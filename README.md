@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MOONI_Profile&fontSize=50" />&nbsp
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MOONI&fontSize=50" />&nbsp
 </div>
 
 
